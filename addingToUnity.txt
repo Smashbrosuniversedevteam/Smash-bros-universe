@@ -2,7 +2,7 @@ Hi its me pineapple the new dev to teach you how to add it to unity!
 1.Download unity with support for mac, windows and linux (because thats what i put it and i want cross platform)
 2.Download github client(yes the official one)
 3.From github client clone the repo from the 'add' button
-4.Now launch unity and klick the open button after you made and logged in with you're account and select the place where the repo was downloaded
+4.Now launch unity and klick the open button after you made and logged in with you're account and select the "super smash bros. universe" from the directory of the cloned repo
 5.Be on your merry way!
 notes:
 Cont be stupid
