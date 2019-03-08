@@ -5,6 +5,6 @@ Hi its me pineapple the new dev to teach you how to add it to unity!
 4.Now launch unity and klick the open button after you made and logged in with you're account and select the "super smash bros. universe" from the directory of the cloned repo
 5.Be on your merry way!
 notes:
-Cant be stupid
+dont be stupid
 
 -Pineapple with hopefully anti-stupidity in this
